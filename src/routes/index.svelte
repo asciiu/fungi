@@ -91,33 +91,9 @@
 </style>
 
 <svelte:head>
-  <title>All Bets</title>
+  <title>fungi</title>
 </svelte:head>
 
 <div class="content" bp="padding">
-  <div bp="grid 3">
-    <div>
-      <h3>Bookie</h3>
-    </div>
-    <div>
-      <h3>Description</h3>
-    </div>
-    <div>
-      <h3>Amount</h3>
-    </div>
-    <div />
-    {#each items as item}
-      <div>{item.user}</div>
-      <div>{item.description}</div>
-      <div>{item.amount}</div>
-      <div>
-        <Button
-          color="primary"
-          on:click={() => alert('submit')}
-          variant="raised">
-          <Label>Bet</Label>
-        </Button>
-      </div>
-    {/each}
-  </div>
+  <img src="mushroom2.jpg" , alt="" />
 </div>

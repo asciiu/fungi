@@ -1,8 +1,8 @@
 <div align="center">
-  <h1><code>Synthwave</code></h1>
+  <h1><code>fungi</code></h1>
 </div>
 
-<p>"What is this? ...how can we expect children to read if they can't even fit inside the building."</p>
+<p>"And it mushroomed from here..."</p>
 Built using the lastest javascript framework - Svelte. Svelte - sapper is used for the routing. All else is just
 random stuffs. I have a vision - I just can't see it yet! 
 

@@ -98,7 +98,7 @@
 </style>
 
 <div bp="grid 1" class="content">
-  <div bp="6" class="brand">grinkwondo</div>
+  <div bp="6" class="brand">fungi</div>
   <div bp="3 padding-top--lg padding-bottom--lg">
     <div class="quotes">
       {#if visible}

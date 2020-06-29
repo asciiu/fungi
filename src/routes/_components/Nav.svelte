@@ -59,7 +59,7 @@
   {#if $session.user}
     <div bp="4">
       <div bp="grid 6">
-        <div on:click={() => goto('/space')}>grink</div>
+        <div on:click={() => goto('/space')}>grinpin</div>
       </div>
     </div>
     <div bp="8">
